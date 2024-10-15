@@ -1,4 +1,5 @@
 # mlops_project
+TEST
 This project comes with example ML code to train, validate and deploy a regression model to predict NYC taxi fares.
 If you're a data scientist just getting started with this repo for a brand new ML project, we recommend 
 adapting the provided example code to your ML problem. Then making and 
